@@ -1,0 +1,16 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.yellow{
+    background-color: yellow;
+    color: white;
+}
+.red{
+    background-color: red;
+    color: white;
+}
+.text-dark{
+    color: black;
+}
